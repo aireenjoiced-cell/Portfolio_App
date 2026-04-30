@@ -26,15 +26,20 @@ Streamlit – Web app framework for Python
 HTML & CSS – Custom styling and layout
 
 🌐 To open the site just click the link below👇
+
 🔗 https://portfolioapp-gd4bztwz7eeax6t6arzec4.streamlit.app/
 
 
 🚀 Purpose
+
 This portfolio showcases:
+
 My creativity in UI/UX design
 My understanding of front-end development
 My ability to build interactive and user-friendly applications
 
 👩‍💻 Author
+
 Aireen Joice Dulatre
+
 Computer Science Student
