@@ -23,7 +23,6 @@ Supports keyboard navigation and screen readers
 🛠️ Technologies Used
 Portfolio App
 Streamlit – Web app framework for Python
-HTML & CSS – Custom styling and layout
 
 🌐 To open the site just click the link below👇
 
