@@ -28,7 +28,6 @@ Streamlit – Web app framework for Python
 
 🔗  https://portfolioapp-gd4bztwz7eeax6t6arzec4.streamlit.app
 
-https://aireenjoiced-cell.github.io/Portfolio_App/
 
 
 🚀 Purpose
