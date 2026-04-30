@@ -26,7 +26,7 @@ Streamlit – Web app framework for Python
 HTML & CSS – Custom styling and layout
 
 🌐 To open the site just click the link below👇
-🔗 https://aireenjoiced-cell.github.io/Teacher-Day-Card/
+🔗 portfolioapp-gd4bztwz7eeax6t6arzec4
 
 
 🚀 Purpose
