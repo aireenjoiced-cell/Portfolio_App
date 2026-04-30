@@ -1,1 +1,40 @@
-# Portfolio_App
+
+💼 Streamlit Portfolio – Interactive Projects Showcase
+
+This project is a personal portfolio web application built with Streamlit, designed to present my projects, skills, and background in a clean and interactive way.
+
+It features a modern UI, responsive layout, and visually engaging sections to highlight my work as a Computer Science student.
+
+🎴 Featured Project: Teacher’s Day Greeting Card
+
+An interactive two-page digital greeting card created to celebrate Teacher’s Day. This project demonstrates my ability to combine design, animation, and front-end development to create meaningful user experiences.
+
+🎨 Features
+🔄 3D Flip Animation
+Smooth card rotation with realistic perspective effects
+🌈 Aesthetic Design
+Clean layout with gradients, floating elements, and sparkles
+📱 Fully Responsive
+Optimized for desktop, tablet, and mobile devices
+✏️ Customizable Content
+Easily update names, messages, and design elements
+♿ Accessible Design
+Supports keyboard navigation and screen readers
+🛠️ Technologies Used
+Portfolio App
+Streamlit – Web app framework for Python
+HTML & CSS – Custom styling and layout
+
+🌐 To open the site just click the link below👇
+🔗 https://aireenjoiced-cell.github.io/Teacher-Day-Card/
+
+
+🚀 Purpose
+This portfolio showcases:
+My creativity in UI/UX design
+My understanding of front-end development
+My ability to build interactive and user-friendly applications
+
+👩‍💻 Author
+Aireen Joice Dulatre
+Computer Science Student
