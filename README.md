@@ -26,7 +26,7 @@ Streamlit – Web app framework for Python
 HTML & CSS – Custom styling and layout
 
 🌐 To open the site just click the link below👇
-🔗 portfolioapp-gd4bztwz7eeax6t6arzec4
+🔗 https://portfolioapp-gd4bztwz7eeax6t6arzec4.streamlit.app/
 
 
 🚀 Purpose
