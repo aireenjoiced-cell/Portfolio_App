@@ -27,7 +27,7 @@ HTML & CSS – Custom styling and layout
 
 🌐 To open the site just click the link below👇
 
-🔗 https://portfolioapp-gd4bztwz7eeax6t6arzec4.streamlit.app
+🔗  https://portfolioapp-gd4bztwz7eeax6t6arzec4.streamlit.app
 
 
 🚀 Purpose
