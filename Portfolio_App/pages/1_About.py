@@ -4,7 +4,7 @@ import base64
 def get_base64_image(image_path):
     with open(image_path, "rb") as img:
         return base64.b64encode(img.read()).decode()
-img_base64 = get_base64_image("pages/joice.jpg")  # change to your file path
+img_base64 = get_base64_image("Portfolio_App/pages/joice.jpg")  # change to your file path
 st.set_page_config(page_title="About | Aireen Joice Dulatre", page_icon="👤", layout="wide")
 
 st.markdown("""
@@ -95,7 +95,7 @@ st.markdown("""
 st.markdown(f"""
 <div class="about-grid">
  <div class="avatar-box">
-  <img src="data:pages/joice.jpg;base64,{img_base64}" class="avatar-img"/>
+  <img src="data:Portfolio_App/pages/joice.jpg;base64,{img_base64}" class="avatar-img"/>
   <div class="avatar-name">Aireen Joice Dulatre</div>
   <div class="avatar-role">Computer Science Student</div>
   <div class="avatar-location">📍 Tagpu, Mandaon, Masbate, Philippines</div>
