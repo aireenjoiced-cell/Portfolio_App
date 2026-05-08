@@ -17,9 +17,9 @@ portfolio_app/
 
 └── pages/
 
-  ├── 1_About.py
+      ├── 1_About.py
   
-  ├── 2_Project.py
+      ├── 2_Project.py
   
   ├── 3_Skills.py
   
