@@ -28,6 +28,7 @@ An interactive two-page digital greeting card created to celebrate Teacher’s D
             └── joice.jpeg
   
       ├── Home.py
+      
 🎨 Features
 🔄 3D Flip Animation
 Smooth card rotation with realistic perspective effects
