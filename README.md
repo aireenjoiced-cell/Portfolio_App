@@ -12,13 +12,19 @@ An interactive two-page digital greeting card created to celebrate Teacher’s D
 📁Project Structure
 
 portfolio_app/
+
 │
 
 └── pages/
+
   ├── 1_About.py
+  
   ├── 2_Project.py
+  
   ├── 3_Skills.py
+  
   ├── 4_Contact.py
+  
   └── joice.jpeg
   
 ├── Home.py
