@@ -27,7 +27,7 @@ Streamlit – Web app framework for Python
 🌐 To open the site just click the link below👇
 
 🔗  https://portfolioapp-gd4bztwz7eeax6t6arzec4.streamlit.app
-
+🔗 [Open the Website](https://portfolioapp-gd4bztwz7eeax6t6arzec4.streamlit.app)
 
 
 🚀 Purpose
