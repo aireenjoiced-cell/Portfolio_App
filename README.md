@@ -21,11 +21,11 @@ portfolio_app/
   
       ├── 2_Project.py
   
-  ├── 3_Skills.py
+      ├── 3_Skills.py
   
-  ├── 4_Contact.py
+      ├── 4_Contact.py
   
-  └── joice.jpeg
+        └── joice.jpeg
   
 ├── Home.py
 🎨 Features
