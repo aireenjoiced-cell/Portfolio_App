@@ -15,10 +15,10 @@ portfolio_app/
 │
 ├── Home.py
 └── pages/
-  ├── 2 _About.py
+  ├── 1_About.py
+  ├── 2_Project.py
   ├── 3_Skills.py
-  ├── 4_Projects.py
-  └── 5_Contact.py
+  └── 4_Contact.py
 
 🎨 Features
 🔄 3D Flip Animation
