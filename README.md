@@ -9,6 +9,17 @@ It features a modern UI, responsive layout, and visually engaging sections to hi
 
 An interactive two-page digital greeting card created to celebrate Teacher’s Day. This project demonstrates my ability to combine design, animation, and front-end development to create meaningful user experiences.
 
+📁Project Structure
+
+portfolio_app/
+│
+├── Home.py
+└── pages/
+  ├── 2 _About.py
+  ├── 3_Skills.py
+  ├── 4_Projects.py
+  └── 5_Contact.py
+
 🎨 Features
 🔄 3D Flip Animation
 Smooth card rotation with realistic perspective effects
